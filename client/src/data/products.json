@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/5nkwdGaPvD5eLtayayfgZN/07d8ae93d6d22cc8d2520d647a989356/ugDmZ6O5Iw_EN.png?fm=webp",
+    "name": "Колоды для командира",
+    "price": "300",
+    "series": "PHYREXIA: ALL WILL BE ONE",
+    "release": ""
+  },
+  {
+    "id": "2",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/TgRR0w07AviGoDaOEdN9D/6ddc46f7412abb18e142f77eb5e57c46/Pq7j0KrQu3_EN.png?fm=webp",
+    "name": "Бустеры выпуска",
+    "price": "300",
+    "series": "PHYREXIA: ALL WILL BE ONE",
+    "release": ""
+  },
+  {
+    "id": "3",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/1SmhfSYc9rNAYmDKnmTtX7/ce40f9340a13746acd6ae22e017ec4de/S5t1lioh00_EN.png?fm=webp",
+    "name": "Коллекционные бустеры",
+    "price": "300",
+    "series": "PHYREXIA: ALL WILL BE ONE",
+    "release": ""
+  },
+  {
+    "id": "4",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/6QPdtIr4WYDB3jmn3sW8hK/5dfb8006d853853b390da6492592606a/J6Wn9x16rF_EN.png?fm=webp",
+    "name": "Драфт-бустеры",
+    "price": "300",
+    "series": "PHYREXIA: ALL WILL BE ONE",
+    "release": ""
+  },
+  {
+    "id": "9",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/2whQwzVAGledTTVh47CfT0/48708a20571712b93d8c3061ce66985c/XniABR20Jn_Left_548x432_EN.png?fm=webp",
+    "name": "Колоды для командира",
+    "price": "300",
+    "series": "THE BROTHERS WAR",
+    "release": ""
+  },
+  {
+    "id": "10",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/2YpvVYfltT2eJGv8GIzFrA/1d387bc0e0b1485cbbcdd07542d9d82c/AlMGIWTGeH_Left_548x432_EN.png?fm=webp",
+    "name": "Бустеры выпуска",
+    "price": "300",
+    "series": "THE BROTHERS WAR",
+    "release": ""
+  },
+  {
+    "id": "11",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/7uyJBbLflvdcEJRmtd3JEZ/510732aa89d2973a78eb2593d6a7380c/xCJHu2a5Fg_Left_548x432_EN.png?fm=webp",
+    "name": "Коллекционные бустеры",
+    "price": "300",
+    "series": "THE BROTHERS WAR",
+    "release": ""
+  },
+  {
+    "id": "12",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/5Zf3g8UTshYffHy1NN743J/a842e70321c13719473978bcad86ee2a/sn5oFbG3cD_Left_548x432_EN.png?fm=webp",
+    "name": "Драфт-бустеры",
+    "price": "300",
+    "series": "THE BROTHERS WAR",
+    "release": ""
+  },
+  {
+    "id": "13",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/6Uu0NYjvNrHnuGtTVUaxQj/ebd9f6953f319c2e5989f49061515daa/kjdnsfF0051_548x432_EN.png?fm=webp",
+    "name": "Коллекционные бустеры",
+    "price": "300",
+    "series": "UNFINITY",
+    "release": ""
+  },
+  {
+    "id": "14",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/6INGY5n2kCfJoIViY2U61r/c553311e065597b8b26a210033d37e13/afpoukF0051_548x432_EN.png?fm=webp",
+    "name": "Драфт-бустеры",
+    "price": "300",
+    "series": "UNFINITY",
+    "release": ""
+  },
+  {
+    "id": "14",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/6m7ht9Bk0mVZVQhioIuLsi/68407314112a589daf8a3bd878c9763b/ru_eOohNgBxJX.png?fm=webp",
+    "name": "Колоды для командира",
+    "price": "300",
+    "series": "ADVENTURES IN THE FORGOTTEN REALMS",
+    "release": ""
+  },
+  {
+    "id": "15",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/22tV6ZmeGxchX8YxRJZ8fb/07b8e24c05c4713cf7db0cb9fabacb46/en_KcfIc7FGgi.png?fm=webp",
+    "name": "Бустеры выпуска",
+    "price": "300",
+    "series": "ADVENTURES IN THE FORGOTTEN REALMS",
+    "release": ""
+  },
+  {
+    "id": "16",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/4y0lCcnnTwVQKk7L2JO9HZ/c1eb2f46bbc91545a82a9dabb9636d30/en_OCqznN9kWV.png?fm=webp",
+    "name": "Коллекционные бустеры",
+    "price": "300",
+    "series": "ADVENTURES IN THE FORGOTTEN REALMS",
+    "release": ""
+  },
+  {
+    "id": "17",
+    "type": "card",
+    "imgUrl": "https://images.ctfassets.net/s5n2t79q9icq/1WxBS9neLB65mbD4r7ha1l/1163c53754bfb8ca38f90a73dafeaee2/ru_n1McLdPFBg.png?fm=webp",
+    "name": "Драфт-бустеры",
+    "price": "300",
+    "series": "ADVENTURES IN THE FORGOTTEN REALMS",
+    "release": ""
+  }
+]

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth bg-[#0C0F11];
+}
+
+body {
+  @apply text-slate-200 h-full w-full;
+}
+
+.navLink {
+  @apply font-bold text-lg text-slate-300 hover:shadow-lg shadow-[#ea3601] hover:border-b-2 hover:text-[#ea3601] border-[#ea3601] cursor-pointer transition-all;
+}
+
+.banner {
+  .swiper-button-next,
+  .swiper-button-prev {
+    @apply text-white hidden md:flex;
+  }
+}
+
+.title {
+  text-shadow: 0 1px 2px #000000;
+}
+.swiper-pagination-bullet-active {
+  background: #ea4b12;
+}
+
+.cardSlider .swiper-button-next {
+  @apply text-black;
+}
+
+.mySwiper {
+  padding: 30px;
+  min-height: 400px;
+  color: #000000;
+  .swiper-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .swiper-container {
+    padding: 0;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    background-color: white;
+    border: solid black 1px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    &::after {
+      display: none;
+    }
+  }
+  .swiper-button-next {
+    background-image: url(./assets/next.svg);
+  }
+  .swiper-button-prev {
+    background-image: url(./assets/back.svg);
+  }
+}
